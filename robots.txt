@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-k4l2ee.trees.school/sitemap.xml
